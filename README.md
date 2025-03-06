@@ -1,3 +1,3 @@
 1. for running the project:
-   npx export start -c
+   npx expo start -c
 # calculator-expo
