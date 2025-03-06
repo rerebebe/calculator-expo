@@ -1,4 +1,3 @@
 1. for running the project:
-   npm run dev
-# calculator-expo
+   npx export start -c
 # calculator-expo
